@@ -1,18 +1,31 @@
-  main {
-    margin: 30px;
-  }
-  
-  img {
-    height: 100px;
-  }
-  
-  /* Task 1 */
-  
-  /* Task 2 */
-  
-  /* Task 3 */
-  
-  /* Task 4 */
-  
-  /* Task 5 */
-  
+main {
+  margin: 30px;
+}
+
+img {
+  height: 100px;
+}
+h1 {
+  text-align: center;
+}
+
+/* Task 1 */
+h3 {
+  color: blue;
+}
+/* Task 2 */
+.list-special-items {
+  color: red;
+}
+/* Task 3 */
+img + img {
+  border: thick solid blueviolet;
+}
+/* Task 4 */
+a[href="www.example.com"] {
+  background-color: yellow;
+}
+/* Task 5 */
+#task-5 {
+  color: magenta;
+}
